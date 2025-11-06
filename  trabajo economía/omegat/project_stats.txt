@@ -1,0 +1,14 @@
+6/11/25 19:58
+Estadísticas del proyecto
+
+                  	Segmentos	Palabras	Caracteres (sin espacios)	Caracteres (con espacios)	#Archivos	
+Total:            	      438	   12138	                    63294	                    75395	        1	
+Pendientes:       	      438	   12138	                    63294	                    75395	        1	
+Únicos:           	      435	   12135	                    63288	                    75389	        1	
+Pendientes únicos:	      435	   12135	                    63288	                    75389	        1	
+
+
+Estadísticas por archivo individual:
+
+Nombre de archivo             	Total de segmentos	Segmentos pendientes	Segmentos únicos	Segmentos únicos pendientes	Total palabras	Palabras pendientes	Palabras únicas	Palabras únicas pendientes	Total caracteres (sin espacios)	Caracteres pendientes (sin espacios)	Caracteres únicos (sin espacios)	Caracteres únicos pendientes (sin espacios)	Total Caracteres (con espacios)	Caracteres pendientes (con espacios)	Caracteres únicos (con espacios)	Caracteres únicos pendientes (con espacios)	
+Livre-Blanc-Crypto-Finance.pdf	               438	                 438	             435	                        435	         12138	              12138	          12135	                     12135	                          63294	                               63294	                           63288	                                      63288	                          75395	                               75395	                           75389	                                      75389	
